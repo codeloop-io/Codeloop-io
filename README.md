@@ -64,3 +64,4 @@ Available for freelance engagements and independent security audits.
 ## 📊 GitHub Statistics
 
 ## 📧 Contact & Connect
+codeloop.project@gmail.com
