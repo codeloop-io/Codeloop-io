@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=200&section=header&text=Welcome%20to%20Codeloop's%20Terminal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
-
+```
 # 👨‍💻 About Me
 
 ```python
